@@ -6,7 +6,7 @@
   <title>Ерден Нығметұлы Әзірбаев — өмірбаян</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Noto+Serif+Display:wght@500;700&display=swap" rel="stylesheet">
+  <link href="downlowd" rel="stylesheet">
   <style>
     :root {
       --bg: #0b1020;
