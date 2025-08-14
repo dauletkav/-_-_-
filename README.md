@@ -141,6 +141,10 @@
 <body>
   <div class="wrap">
     <header class="hero">
+       <img src="download.jpg" alt="Ерден Нығметұлы Әзірбаев" 
+       style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; 
+              border: 3px solid var(--border); display: block; margin: 0 auto 20px; box-shadow: var(--shadow);">
+
       <div class="subtitle">Ғалым • Органикалық химия • Қазақстан</div>
       <h1 class="title">Ерден Нығметұлы Әзірбаев</h1>
       <div class="badges">
